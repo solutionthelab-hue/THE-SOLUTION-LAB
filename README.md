@@ -213,15 +213,15 @@
           <div class="flex flex-col gap-4">
             <div class="p-4 rounded-lg shadow card-glass">
               <div class="font-semibold">Office</div>
-              <div class="text-sm text-slate-600 mt-1">123, Creative Street, Your City</div>
+              <div class="text-sm text-slate-600 mt-1">123, Creative Street, Bahraich</div>
             </div>
             <div class="p-4 rounded-lg shadow card-glass">
               <div class="font-semibold">Email</div>
-              <div class="text-sm text-slate-600 mt-1">hello@thesolutionlab.example</div>
+              <div class="text-sm text-slate-600 mt-1">solutionthelab@gmail.com</div>
             </div>
             <div class="p-4 rounded-lg shadow card-glass">
               <div class="font-semibold">Phone</div>
-              <div class="text-sm text-slate-600 mt-1">+91 98765 43210</div>
+              <div class="text-sm text-slate-600 mt-1">+91 5255355966</div>
             </div>
           </div>
         </div>
